@@ -1,2 +1,3 @@
 # learn-shell
-shall scripting - we learn bush shell scripting
+shall scripting - we learn bush shell scripting.
+1. basic commands.
