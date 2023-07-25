@@ -4,4 +4,3 @@ greeting() {
   echo good bye!!
 }
 
-greeting
