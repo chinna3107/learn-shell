@@ -18,3 +18,5 @@ input() {
   Echo All Argument - $*
   echo No of Argument - $#
   }
+
+  input 123 abc
