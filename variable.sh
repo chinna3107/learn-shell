@@ -11,6 +11,6 @@
  echo today date is $DATE
 
  ##Arthimetic substitution
-ADD=$( 2+2 )
+ADD=$(( 2+2 ))
 echo ADD of 2+2 = $ADD
 
