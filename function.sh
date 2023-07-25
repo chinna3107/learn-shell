@@ -19,4 +19,4 @@ input() {
   echo No of Argument - $#
   }
 
-  input 123 abc
+  input 123 "abc"
