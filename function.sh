@@ -15,7 +15,7 @@ input() {
 
   echo Frist Argument - $1
   echo Second Argument -$2
-  Echo All Argument - $*
+  echo All Argument - $*
   echo No of Argument - $#
   }
 
