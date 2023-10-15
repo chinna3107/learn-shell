@@ -2,3 +2,4 @@
 # ls -ltr
 # uname
 # uname -a
+ls
